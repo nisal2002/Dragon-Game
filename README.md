@@ -31,8 +31,3 @@ To play the game, simply run the Python script. Follow the on-screen instruction
 Have fun playing and enjoy the adventure in the Kingdom of Dragons!
 
 For more Python projects and tutorials, visit my GitHub profile: https://github.com/nisal2002
-
----
-
-Feel free to customize this description with your own GitHub profile link and any additional information you want to provide about the game. Make sure to replace "yourusername" with your actual GitHub username or organization name when adding the link.
-
